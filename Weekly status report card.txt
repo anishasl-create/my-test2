@@ -1,0 +1,34 @@
+Fill in and copy paste the content in an email (Do not attach) and send it by email on all fridays. Email subject should be "Status report : <Start date> - <End date>"
+
+
+=========FORMAT===========================
+
+
+
+Weekly status report card
+
+===============================================
+Name:
+Period ending:
+Leave if any:
+ 
+===============================================
+Tasks worked on this week:
+
+ 
+ 
+
+===============================================
+Tasks planned for the coming week:
+
+ 
+ 
+ 
+
+===============================================
+Risks to the schedule:
+ 
+ 
+
+
+===============================================
